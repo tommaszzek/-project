@@ -1,6 +1,6 @@
 <?php
 echo "kolejeny brancz"
-
+echo "dodanie do zba"
 
 fasdfdas
 dsfsd
